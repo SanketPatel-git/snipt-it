@@ -2,7 +2,7 @@
 
 return [
     'bulk_delete'		=> 'Confirm Bulk Delete Assets',
-    'bulk_restore'      => 'Confirm Bulk Restore Assets', 
+    'bulk_restore'      => 'Confirm Bulk Restore Assets',
   'bulk_delete_help'	=> 'Review the assets for bulk deletion below. Once deleted, these assets can be restored, but they will no longer be associated with any users they are currently assigned to.',
   'bulk_restore_help'	=> 'Review the assets for bulk restoration below. Once restored, these assets will not be associated with any users they were previously assigned to.',
   'bulk_delete_warn'	=> 'You are about to delete :asset_count assets.',
@@ -11,7 +11,7 @@ return [
     'bulk_update_help'	=> 'This form allows you to update multiple assets at once. Only fill in the fields you need to change. Any fields left blank will remain unchanged. ',
     'bulk_update_warn'	=> 'You are about to edit the properties of a single asset.|You are about to edit the properties of :asset_count assets.',
     'bulk_update_with_custom_field' => 'Note the assets are :asset_model_count different types of models.',
-    'bulk_update_model_prefix' => 'On Models', 
+    'bulk_update_model_prefix' => 'On Models',
     'bulk_update_custom_field_unique' => 'This is a unique field and can not be bulk edited.',
     'checkedout_to'		=> 'Checked Out To',
     'checkout_date'		=> 'Checkout Date',
